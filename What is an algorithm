@@ -1,1 +1,46 @@
 https://moodle.ucu.ac.ug/mod/page/view.php?id=610375
+
+
+An algorithm is a set of instructions that is used to solve a specific problem or perform a particular task. It is a well-defined procedure that takes some input, processes it, and produces a corresponding output.
+
+ Characteristics of algorithms include:
+
+1. *Input*: An algorithm receives input data or information.
+
+2. *Processing*: The algorithm performs operations on the input data.
+
+3. *Output*: The algorithm produces a result or solution.
+
+4. *Finiteness*: An algorithm must eventually terminate (stop).
+
+5. *Determinism*: Given a specific input, an algorithm always produces the same output.
+
+6. *Effectiveness*: An algorithm should be able to solve the problem it was designed for.
+
+Types of algorithms include:
+
+1. *Sorting algorithms* (e.g., bubble sort, quicksort)
+
+2. *Searching algorithms* (e.g., linear search, binary search)
+
+3. *Graph algorithms* (e.g., Dijkstra's algorithm, Bellman-Ford algorithm)
+
+4. *Dynamic programming algorithms*
+
+5. *Backtracking algorithms*
+
+6. *Greedy algorithms*
+
+7. *Brute force algorithms*
+
+Algorithms can be expressed in various forms, such as:
+
+1. *Natural language*
+
+2. *Flowcharts*
+
+3. *Pseudocode*
+
+4. *Programming languages* (e.g., Python, Java, C++)
+
+The study of algorithms is crucial in computer science, as they are essential for solving complex problems efficiently and effectively.
